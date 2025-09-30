@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Slider label="Wind Direction" value="0" high-value="1" name="WindDirectionSlider" low-value="-1" style="padding-top: 20px; width: 60%;" />
+    <ui:Slider label="Wind Speed" value="0" high-value="5" name="WindSpeedSlider" low-value="-5" style="padding-top: 0; width: 60%;" />
+</ui:UXML>
