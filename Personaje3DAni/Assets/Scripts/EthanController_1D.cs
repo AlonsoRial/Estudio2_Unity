@@ -11,8 +11,8 @@ public class EthanController_1D : MonoBehaviour
     private Animator _mechanim;
 
     private InputSystem_Actions _inputActions;
-    float _acceleration = 5;
-    float _speed;
+    private float _acceleration = 1;
+    private float _speed;
 
     private void OnEnable()
     {
